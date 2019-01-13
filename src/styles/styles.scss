@@ -1,0 +1,10 @@
+.main{
+	color:blue;
+	& img{
+		width: 175px;
+		height: 75px;
+	}
+	& ul{
+		text-decoration-style: none;
+	}
+}
