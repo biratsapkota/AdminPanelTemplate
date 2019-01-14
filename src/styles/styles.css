@@ -1,7 +1,28 @@
-.main {
-  color: blue; }
-  .main img {
-    width: 175px;
-    height: 75px; }
-  .main ul {
-    text-decoration-style: none; }
+.main img {
+  width: 175px;
+  height: 75px; }
+
+.main ul {
+  text-decoration-style: none; }
+
+.show-grid {
+  color: white; }
+  .show-grid .dashbox1 {
+    margin-top: 10%;
+    height: 110px;
+    width: 100%; }
+  .show-grid .dashbox2 {
+    margin-top: 10%;
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, green, yellow); }
+  .show-grid .dashbox3 {
+    margin-top: 10%;
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, violet, red); }
+  .show-grid .dashbox4 {
+    margin-top: 10%;
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, pink, blue); }
